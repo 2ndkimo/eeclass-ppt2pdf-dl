@@ -1,3 +1,10 @@
+## This is a fork
+
+這是我從 https://github.com/lebr0nli/eeclass-ppt2pdf-dl Fork來的，all credit to original author。
+我只是讓codex更新使用的package而已。
+
+---
+
 # eeclass ppt2pdf downloader
 
 eeclass ppt to pdf downloader
@@ -68,4 +75,4 @@ Use at your own risk!
 
 ## Third-party Libraries
 
-- [jsPDF](https://github.com/parallax/jsPDF)
+- [jsPDF 4.2.1](https://github.com/parallax/jsPDF/releases/tag/v4.2.1)

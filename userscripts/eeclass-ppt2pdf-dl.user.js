@@ -2,8 +2,8 @@
 // @name        eeclass ppt2pdf downloader
 // @description Append download link to any course ppt
 // @match       *://ncueeclass.ncu.edu.tw/media/doc/*
-// @require     https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js
-// @version     2022.05
+// @require     https://cdn.jsdelivr.net/npm/jspdf@4.2.1/dist/jspdf.umd.min.js
+// @version     2026.10.7
 // @updateURL   https://raw.githubusercontent.com/lebr0nli/eeclass-ppt2pdf-dl/main/userscripts/eeclass-ppt2pdf-dl.user.js
 // ==/UserScript==
 
@@ -45,4 +45,3 @@ try {
     alert(e);
     alert('Contact @lebr0nli at https://github.com/lebr0nli/eeclass-ppt2pdf-dl/issues for help');
 }
-
